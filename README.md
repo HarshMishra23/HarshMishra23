@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="center">An Enthusiast... ✌️.. Full Stack Web dev 👨‍💻👨‍💻 from INDIAA .....</h3>
-<div>
+<div align="middle">
   <img src= "https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0&h=180" width= 330 height= 280 >
+  <img src= "https://tse3.mm.bing.net/th?id=OIP.uU-NOFOQDNnd183qeZKmcAHaGp&pid=Api&P=0&h=180"  width= 330 height= 280 >
  
   
 </div>
