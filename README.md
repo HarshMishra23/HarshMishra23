@@ -1,5 +1,5 @@
 <span align="middle">
-<img  src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+<img  src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" height=300 width=1500>
   <span/>
     
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
