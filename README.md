@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="center">An Enthusiast... ✌️.. Full Stack Web dev 👨‍💻👨‍💻 from INDIAA .....</h3>
+<div>
+  <img src= "https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0&h=180" width= 330 height= 280 >
+ 
+  
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkabir07&label=Profile%20views&color=0e75b6&style=flat" alt="HarshMishra23" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HarshMishra23" alt="HarshMishra23" /></a> </p>
 
 - 🌱 I’m currently learning **Html, CSS ,JavaScript**
 
