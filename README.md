@@ -1,9 +1,12 @@
-<span align="middle">
-<img  src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" height=300 width=1500>
-  <span/>
-    
-<h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
-<h3 align="center">An Enthusiast... ✌️.. Full Stack Web dev 👨‍💻👨‍💻 from INDIAA .....</h3>
+<div align='center'>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World;%20&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+
+# 👋 Hello, I'm HARSH MISHRA
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;I+code+and+drink+coffee;I+love+to+play+videogames" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 <div align="middle">
   <img src= "https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0&h=180" width= 330 height= 280 >
   <img src= "https://tse3.mm.bing.net/th?id=OIP.uU-NOFOQDNnd183qeZKmcAHaGp&pid=Api&P=0&h=180"  width= 330 height= 280 >
