@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **hm45676777776@gmail.com**
 
-- ⚡ Fun fact **i am passionate 💪... fun loving😉**
+- ⚡ Fun fact **i am passionate 💪... fun loving😉**       
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
