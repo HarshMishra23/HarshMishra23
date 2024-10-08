@@ -3,6 +3,7 @@
 
 # 👋 Hello, I'm HARSH MISHRA
 
+
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;I+code+and+drink+coffee;I+love+to+play+videogames" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
